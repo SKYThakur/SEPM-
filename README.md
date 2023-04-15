@@ -1,2 +1,2 @@
-# SEPM-
+# SEPM
 Short news portal
