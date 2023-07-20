@@ -1,2 +1,2 @@
 # SEPM
-Short news portal
+Short news portal app
